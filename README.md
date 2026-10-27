@@ -4,8 +4,8 @@
 [![Envoy Security Team](https://img.shields.io/badge/Envoy-Security%20Team-b02a37?style=for-the-badge&logo=envoyproxy&logoColor=white)](https://github.com/envoyproxy/envoy/blob/main/OWNERS.md)
 [![Blog](https://img.shields.io/badge/Blog-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://botengyao.github.io)
 
-I care about networks, traffic, AI, and infrastructure — the systems underneath the
-software everyone sees.
+I care about networks, traffic, AI, and infrastructure — and their human and social
+impact.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
