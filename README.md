@@ -25,11 +25,7 @@ I care about network, traffic, AI, and infrastructure.
 
 ### ✍️ Writing & community
 
-Blog at **[botengyao.github.io](https://botengyao.github.io)** —
-[Stateless MCP in Envoy 1.40](https://botengyao.github.io/posts/stateless-mcp-envoy/) ·
-[A Copy That Never Stops Copying](https://botengyao.github.io/posts/envoy-tls-linearize/) ·
-[Share Mechanisms Broadly, Share Authority Narrowly](https://botengyao.github.io/posts/trust-boundaries-agent-substrate/) ·
-[Agent Substrate](https://botengyao.github.io/posts/agent-substrate/)
+Blog at **[botengyao.github.io](https://botengyao.github.io)**
 
 **[Human, Together](https://humantogether.club)** — a MOVE × MIND × CONNECT community:
 five-minute moments to reset, refresh your mind, and reconnect with people in the AI era.
