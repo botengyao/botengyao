@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:ac6199&height=180&section=header&text=Boteng%20Yao&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Envoy%20Maintainer%20%C2%B7%20Envoy%20Security%20Team&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Boteng Yao" />
-
 <a href="https://github.com/envoyproxy/envoy/blob/main/OWNERS.md"><img src="https://img.shields.io/badge/Envoy-Senior%20Maintainer-ac6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy Senior Maintainer" /></a>
 <a href="https://github.com/envoyproxy/envoy/blob/main/OWNERS.md"><img src="https://img.shields.io/badge/Envoy-Security%20Team-b02a37?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy Security Team" /></a>
 <a href="https://botengyao.github.io"><img src="https://img.shields.io/badge/Blog-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3400&pause=900&color=1F6FEB&center=true&vCenter=true&width=700&lines=Network+%C2%B7+traffic+%C2%B7+AI+%C2%B7+infrastructure;Senior+maintainer+%40+Envoy+Proxy" alt="Network, traffic, AI, infrastructure" />
 
 </div>
 
